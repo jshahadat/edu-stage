@@ -1,0 +1,57 @@
+.nav-bg {
+    background-color: #E9E6EA;
+}
+
+.fotter-background {
+    background-color: #002347;
+}
+
+.feature-background {
+    background-color: #F9F9FF;
+}
+
+.header-title {
+    left: 30%;
+    top: 300px;
+    text-align: center;
+}
+
+.header-info {
+    left: 34%;
+    top: 250px;
+}
+
+.header-button {
+    left: 40%;
+    top: 370px;
+}
+
+.price-tag {
+    left: 80%;
+    top: 55%;
+}
+
+.timer {
+    background-color: #6D8298;
+}
+
+@media screen and (max-width:688px) {
+    .header-title {
+        font-size: small;
+        text-align: center;
+        left: 27%;
+        top: 80px;
+        text-align: center;
+    }
+
+    .header-info {
+        font-size: small;
+        left: 14%;
+        top: 60px;
+    }
+
+    .header-button {
+        left: 10%;
+        top: 100px;
+    }
+}
